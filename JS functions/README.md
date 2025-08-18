@@ -1,0 +1,2 @@
+### This color converter function only takes RGB and HEX inputs as strings, inputs have to be complete, it does not take shorthands at this stage.
+### Function succesfully converts rgb in to hex and hex into rgb values. 
